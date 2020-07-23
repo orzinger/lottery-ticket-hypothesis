@@ -15,7 +15,7 @@ The new features are:
 
 3) In download_data.py you can choose which dataset do you want to download - mnist, fashion mnist and cifar10 *
 
-4) A new UI for running an experiment for all models and dataset (in the original code, there was only mnist_fc experiment)
+4) A new UI for running an experiment for all models and datasets (in the original code, there was only mnist_fc experiment)
 
 
 
